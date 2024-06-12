@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Howrya, I'm Joan👋</h1>
+  
+![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/Jojisi/Jojisi/assets/116123535/8eae716d-b2e1-4cdb-872b-48d857f33b27)
 
-<!--
-**Jojisi/Jojisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+## About me 🎮
+
+I am Joan, currently studying the first year of _Development of Web Applications_ (DAW) at IES L’estació.
+
+- 🖥️ **Web Development Enthusiast**: Committed to learning and excelling in the realm of application development.
+- 👐 **Teamwork Advocate**: I thrive on collaboration and tackling new challenges.
+- 🌱 **Perpetual Challenge Seeker**: Always on the lookout for opportunities to grow and advance my career.
+- 💡 **Growth Mindset**: I apply the discipline from my athletic pursuits to my professional life.
+
+## Techs i know and use
+These are some of the technologies I have used and learned :
+
+### Herramientas de Desarrollo:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,eclipse" /> 
+  </a>
+</p>
+
+### Frontend:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,js,css" />
+  </a>
+</p>
+
+### Backend:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,mysql,mongo" />
+  </a>
+</p>
+</br>
+
+## My stats 📊
+
+<div align="center">
+
+    
+![Jojisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojisi&show_icons=true&theme=gruvbox)  </a>
+
+</div>
