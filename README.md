@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Howrya, I'm Joan👋</h1>
+  <h1 align="center">Howrya, I'm Joan 🗿</h1>
   
 ![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/Jojisi/Jojisi/assets/116123535/8eae716d-b2e1-4cdb-872b-48d857f33b27)
 
