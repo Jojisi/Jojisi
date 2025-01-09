@@ -46,7 +46,9 @@ These are some of the technologies I have used and learned :
 
 <div align="center">
 
-    
-![Jojisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojisi&show_icons=true&theme=gruvbox)  </a>
+   ![Jojisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojisi&count_private=true&show_icons=true&hide_title=true&theme=radical&include_all_commits=true)  </a>
+
+
+
 
 </div>
