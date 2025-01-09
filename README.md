@@ -10,7 +10,7 @@
 
 ## About me 🎮
 
-I am Joan, currently studying the first year of _Development of Web Applications_ (DAW) at IES L’estació.
+I am Joan, currently studying _Development of Web Applications_ (DAW) at IES L’estació.
 
 - 🖥️ **Web Development Enthusiast**: Committed to learning and excelling in the realm of application development.
 - 👐 **Teamwork Advocate**: I thrive on collaboration and tackling new challenges.
@@ -20,7 +20,7 @@ I am Joan, currently studying the first year of _Development of Web Applications
 ## Techs i know and use
 These are some of the technologies I have used and learned :
 
-### Herramientas de Desarrollo:
+### IDE:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,eclipse" /> 
