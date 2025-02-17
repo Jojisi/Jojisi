@@ -20,7 +20,7 @@ I am Joan, currently studying _Development of Web Applications_ (DAW) at IES Lâ€
 ## Techs i know and use
 These are some of the technologies I have used and learned :
 
-### IDE:
+### IDE's & techs:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,eclipse" /> 
